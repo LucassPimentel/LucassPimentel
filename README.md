@@ -2,7 +2,7 @@
 #  Olá, eu sou o Lucas 👋
 
 - 👨‍💻 Formando em ADS.
-- 📚 Atualmente estudando JavaScript.
+- 📚 Atualmente estudando front-end.
 - 🤍 Apaixonado por tecnologia.
 
 <div align="center">
