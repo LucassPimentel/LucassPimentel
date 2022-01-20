@@ -23,7 +23,7 @@
   ##
   
   <div>
-     <a href="https://www.linkedin.com/in/lucas-pimentel-0b7492222/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank"></a> 
+     <a href="https://www.linkedin.com/in/lucas-pimentel-0b7492222/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     
 
   </div>
