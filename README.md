@@ -1,9 +1,6 @@
 ##
 #  Olá, eu sou o Lucas 👋
 
-- 👨‍💻 Formando em ADS.
-- 🤍 Apaixonado por tecnologia.
-
 <div align="center">
   <a href="https://github.com/LucassPimentel">
   <img height="181em" src="https://github-readme-stats.vercel.app/api?username=LucassPimentel&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
